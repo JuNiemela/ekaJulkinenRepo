@@ -24,11 +24,6 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Taulukko
 ---
-|Jotain |Ja lisää jotain|
-|-----------------------|
-|       |               |
-|       |               |
-|       |               |
 
 ## Kooodilohkoa
 ---
