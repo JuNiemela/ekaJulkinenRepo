@@ -19,7 +19,7 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Kuva
 ---
-![kuva koodista](https://www.istockphoto.com/photo/programming-source-code-abstract-background-gm1047259374-280143656?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=coding)
+![Maisema](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/800px-Fronalpstock_big.jpg)
 
 ## Taulukko
 ---
