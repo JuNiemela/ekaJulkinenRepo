@@ -14,8 +14,10 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 -
 -
 -
-## Tämän repon linkki
+## Tästä GitHubiin
 ---
+[Tästä GitHubiin!](https://github.com)
+
 
 ## Kuva
 ---
