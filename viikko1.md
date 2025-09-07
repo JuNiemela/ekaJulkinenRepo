@@ -10,8 +10,7 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 2.
 3.
 
-### Lisäksi
----
+### Lisäksi alalla kiinnostaa
 -
 -
 -
@@ -20,7 +19,7 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Kuva
 ---
-
+![kuva koodista](https://www.pexels.com/fi-fi/kuva/577585/)
 
 ## Taulukko
 ---
