@@ -30,11 +30,12 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 | ----------- | ----------- |
 | Rivi 1 | Rivi 1 |
 | Rivi 2 | Rivi 2 |
+| Rivi 3 | Rivi 3 |
 
 
 ## Kooodilohkoa
 ---
-	```
+```
 {
   "firstName": "Juho",
   "lastName": "Niemela",
@@ -44,5 +45,6 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Lainaus
 ---
-
+> Saksa on ----- maa.
+>> Seppo Räty.
 
