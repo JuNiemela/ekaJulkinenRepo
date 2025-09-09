@@ -19,7 +19,6 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 ---
 [Tästä GitHubiin!](https://github.com)
 
-
 ## Kuva
 ---
 ![Maisema](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/800px-Fronalpstock_big.jpg)
@@ -31,7 +30,6 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 | Rivi 1 | Rivi 1 |
 | Rivi 2 | Rivi 2 |
 | Rivi 3 | Rivi 3 |
-
 
 ## Kooodilohkoa
 ---
@@ -45,10 +43,6 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Lainaus
 ---
->Saksa on ----- maa.
->>Seppo Räty.
+Saksa on maa. [^1]
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
+[^1]: Seppo Räty
