@@ -34,7 +34,15 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Kooodilohkoa
 ---
+	```
+{
+  "firstName": "Juho",
+  "lastName": "Niemela",
+  "age": "Not too old"
+}
+```
 
 ## Lainaus
 ---
+
 
