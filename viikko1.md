@@ -45,6 +45,10 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Lainaus
 ---
-> Saksa on ----- maa.
->> Seppo Räty.
+>Saksa on ----- maa.
+>>Seppo Räty.
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
 
