@@ -31,7 +31,7 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 | Rivi 2 | Rivi 2 |
 | Rivi 3 | Rivi 3 |
 
-## Kooodilohkoa
+## Koodilohko
 ---
 ```
 {
