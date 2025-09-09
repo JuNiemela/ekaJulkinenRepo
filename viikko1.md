@@ -43,6 +43,5 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Lainaus
 ---
-Saksa on maa. [^1]
-
-[^1]: Seppo Räty
+>Saksa on maa.
+Seppo Räty
