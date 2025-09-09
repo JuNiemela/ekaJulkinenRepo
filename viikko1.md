@@ -6,14 +6,15 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Kiinnostuksen kohteita alalla
 ---
-1.
-2.
-3.
+1. Kyberturvallisuus
+2. Ohjelmointi
+3. IoT
 
 ### Lisäksi alalla kiinnostaa
--
--
--
+- Jatkuva uuden opiskelu ja itsensä kehittäminen
+- Laajat mahdollisuudet suuntautua erilaisiin tehtäviin
+- Yleinen testailu ja kokeilu
+
 ## Tästä GitHubiin
 ---
 [Tästä GitHubiin!](https://github.com)
@@ -25,6 +26,11 @@ Olen **Juho** ja tämä on *lyhyt* esittely.
 
 ## Taulukko
 ---
+| Sarake 1 | Sarake 2 |
+| ----------- | ----------- |
+| Rivi 1 | Rivi 1 |
+| Rivi 2 | Rivi 2 |
+
 
 ## Kooodilohkoa
 ---
